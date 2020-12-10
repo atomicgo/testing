@@ -31,4 +31,4 @@ Hello returns "Hello, {Name}!".
 ```go
 func HelloWorld() string
 ```
-HelloWorld returns "Hello, World Updated!".
+HelloWorld returns "Hello, World!".
