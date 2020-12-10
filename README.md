@@ -36,7 +36,7 @@
 
 ---
 
-* Package template is a template for AtomicGo projects.
+Package template is a template for AtomicGo projects.
 
 Here is the place for the description of the module.
 
