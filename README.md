@@ -36,7 +36,11 @@
 
 ---
 
-Package testing is a module which is only used for testing purposes.
+* Package template is a template for AtomicGo projects.
+
+Here is the place for the description of the module.
+
+You can use **Markdown** here.
 
 ## Install
 
