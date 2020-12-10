@@ -1,9 +1,24 @@
 # testing
+
+<a href="https://codecov.io/gh/atomicgo/testing">
+<img src="https://img.shields.io/codecov/c/gh/atomicgo/testing?color=magenta&logo=codecov&style=flat-square" alt="Coverage">
+</a>
+
  
 
-[![GoDoc](https://godoc.org/github.com/atomicgo/testing?status.svg)](https://godoc.org/github.com/atomicgo/testing)
+---
 
-> Package testing is a module which is only used for testing purposes.
+<p align="center">
+<strong><a href="#install">Get The Module</a></strong>
+|
+<strong><a href="https://godoc.org/github.com/atomicgo/testing">Documentation</a></strong>
+|
+<strong><a href="./CONTRIBUTING.md">Contributing</a></strong>
+</p>
+
+---
+
+Package testing is a module which is only used for testing purposes.
 
 ## Install
 
