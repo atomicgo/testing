@@ -18,5 +18,5 @@ func notExported() string {
 
 // notExported2 is not exported.
 func notExported2() string {
-	return "Not exported!"
+	return "Not exported2!"
 }
