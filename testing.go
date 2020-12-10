@@ -15,3 +15,8 @@ func Hello(name string) string {
 func notExported() string {
 	return "Not exported!"
 }
+
+// notExported2 is not exported.
+func notExported2() string {
+	return "Not exported!"
+}
