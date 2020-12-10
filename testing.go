@@ -1,7 +1,7 @@
 // Package testing is a module which is only used for testing purposes.
 package testing
 
-// HelloWorld returns "Hello, World!".
+// HelloWorld returns "Hello, World Updated!".
 func HelloWorld() string {
 	return "Hello, World! Updated"
 }
