@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Docs
-        uses: atomicgo/ci@master
+        uses: atomicgo/ci@main
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TERM: xterm-256color
