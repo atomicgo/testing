@@ -3,7 +3,7 @@ package testing
 
 // HelloWorld returns "Hello, World!".
 func HelloWorld() string {
-	return "Hello, World!"
+	return "Hello, World! Updated"
 }
 
 // Hello returns "Hello, {Name}!".
