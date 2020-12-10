@@ -1,4 +1,10 @@
-# testing
+<h1 align="center">AtomicGo | testing</h1>
+
+<p align="center">
+
+<a href="https://codecov.io/gh/atomicgo/testing">
+<img src="https://img.shields.io/github/workflow/status/atomicgo/testing/Go?label=tests&style=flat-square" alt="Tests">
+</a>
 
 <a href="https://codecov.io/gh/atomicgo/testing">
 <img src="https://img.shields.io/codecov/c/gh/atomicgo/testing?color=magenta&logo=codecov&style=flat-square" alt="Coverage">
@@ -11,6 +17,8 @@
 <a href="https://opensource.org/licenses/MIT">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
 </a>
+
+</p>
 
  
 
